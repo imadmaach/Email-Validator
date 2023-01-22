@@ -53,12 +53,3 @@ Enter delay in seconds: 5
 
 <p>This project is licensed under the <a href="https://opensource.org/licenses/BSD-3-Clause">BSD 3-Clause License</a> - see the <a href="LICENSE">LICENSE</a> file for details</p>
 
-<h2>Acknowledgments</h2>
-
-<ul>
-  <li>Hat tip to anyone whose code was used</li>
-  <li>Inspiration</li>
-  <li>etc</li>
-</ul>
-
-<p>Note that you need to replace the placeholders such as the license name and the link to your license file with the actual information about your project's license.</p>
