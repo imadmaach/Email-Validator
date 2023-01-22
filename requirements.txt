@@ -1,0 +1,4 @@
+validate_email
+tqdm
+colorama
+
